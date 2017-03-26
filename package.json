@@ -1,0 +1,42 @@
+{
+  "name": "typescript-webpack-react",
+  "version": "0.0.1",
+  "description": "A boilerplate for developing React-TypeScript with Webpack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimatra/TypeScriptWebpackReact.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "React",
+    "Webpack"
+  ],
+  "author": "nimatra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimatra/TypeScriptWebpackReact/issues"
+  },
+  "homepage": "https://github.com/nimatra/TypeScriptWebpackReact#readme",
+  "dependencies": {
+    "@types/react": "^15.0.20",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.2",
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "source-map-loader": "^0.2.0",
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1",
+    "webpack-dashboard": "^0.3.0"
+  }
+}
